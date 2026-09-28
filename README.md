@@ -2,7 +2,7 @@
 
 > Relational database management system from Microsoft, running on Windows, Linux, containers, and Azure.
 
-**Disclaimer:** This list is maintained by the [Beekeeper Studio](https://github.com/beekeeper-studio) team. Beekeeper Studio is an easy to use database manager for SQL Server and 12+ other databases. Our goal is to keep this list impartial. We'd love other outside maintainers to join the org to help make that happen.
+**Disclaimer:** This list is maintained by the [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) team. Beekeeper Studio is an easy to use database manager for SQL Server and 12+ other databases. Our goal is to keep this list impartial. We'd love other outside maintainers to join the org to help make that happen.
 
 ## Contents
 
@@ -23,7 +23,7 @@
 
 Desktop and web applications for browsing, querying, and managing SQL Server databases.
 
-- [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Cross-platform SQL editor and database manager with an open source community edition and a commercial edition.
+- [Beekeeper Studio](https://www.beekeeperstudio.io/) - Cross-platform SQL editor and database manager with an open source community edition and a commercial edition.
 - [DataGrip](https://www.jetbrains.com/datagrip/) - JetBrains' commercial database IDE with code completion, refactoring, and version control integration.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free, open source, cross-platform universal database tool, with a commercial edition for extra features.
 - [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio/) - Commercial Windows IDE with T-SQL debugging, schema and data comparison, and database design tools.
