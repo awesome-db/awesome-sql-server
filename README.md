@@ -65,6 +65,7 @@ Add-ins and extensions that bring SQL Server features into SQL Server Management
 
 - [dbachecks](https://github.com/dataplat/dbachecks) - PowerShell module that validates SQL Server environments against configurable best-practice checks.
 - [dbatools](https://github.com/dataplat/dbatools) - PowerShell module with hundreds of commands for automating SQL Server administration, migrations, and best practices.
+- [LogCarver](https://github.com/caiderek/LogCarver) - Open source command-line tool that reconstructs deleted or updated rows from the SQL Server transaction log, without requiring Change Data Capture or Audit to have been enabled beforehand. A commercial edition, LogCarverOffline, can recover data directly from a detached .ldf file at the byte level, even after SQL Server itself no longer reports it, as long as the file hasn't been physically overwritten.
 - [SQL Server Maintenance Solution](https://ola.hallengren.com/) - Ola Hallengren's free scripts for backups, integrity checks, and index and statistics maintenance.
 - [SQL Server Migration Assistant (SSMA)](https://learn.microsoft.com/sql/ssma/sql-server-migration-assistant) - Microsoft's free tool for migrating Oracle, MySQL, DB2, SAP ASE, and Access databases to SQL Server.
 
