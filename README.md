@@ -32,6 +32,7 @@ Desktop and web applications for browsing, querying, and managing SQL Server dat
 - [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - Free, open source Windows client for SQL Server, MySQL, PostgreSQL, and SQLite.
 - [LINQPad](https://www.linqpad.net/) - Windows scratchpad for querying SQL Server with SQL, LINQ, or C#.
 - [Navicat for SQL Server](https://www.navicat.com/en/products/navicat-for-sql-server) - Commercial cross-platform GUI with data modeling, transfer, and synchronization tools.
+- [OrcaQ](https://github.com/cin12211/orca-q) - Open source desktop and web database editor with T-SQL `GO` batch support, ER diagrams, and schema diff.
 - [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms) - Microsoft's free, official Windows tool for managing and querying SQL Server.
 - [SQLPro for MSSQL](https://www.macsqlclient.com/) - Commercial native SQL Server client for macOS, iOS, Android, and Windows.
 - [TablePlus](https://tableplus.com/) - Native, cross-platform GUI for SQL Server and other databases, with a free tier.
